@@ -2,7 +2,7 @@
 
 🙋‍♀️ introduction
 
-We are a laboratory organization specializing in the research of software infrastructure.  Our approach involves learning and conducting research by implementing various common infrastructure software.  We hope that our work will inspire you.
+We are a laboratory organization specialized in researching infrastructure software. We plan to implement some common infrastructure software. I hope our work will inspire you.
 
 
 <!--
