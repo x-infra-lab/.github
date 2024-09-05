@@ -5,6 +5,13 @@
 We are a laboratory organization specialized in researching infrastructure software. We plan to implement some common infrastructure software. I hope our work will inspire you.
 
 
+## Contact Us
+For any inquiries or collaborations, please feel free to reach out to us through the following channels:
+
+- **Slack**: [Join our Slack community](https://x-infra-lab.slack.com)
+- **Email**: [Contact us via email](mailto:x.infra.lab@gmail.com)
+
+
 <!--
 
 **Here are some ideas to get you started:**
